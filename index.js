@@ -24,7 +24,7 @@ function hexToRgb (hex) {
 
 
 
-export default class PointRain {
+export default class TextRainCanvas {
   text = 'abcdefghijklmnopqrstuvwxyz'
   fontSize = 14
   color = [0,255,0]
